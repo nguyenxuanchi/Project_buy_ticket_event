@@ -1,0 +1,98 @@
+form#form-event-ticket {
+    display: block;
+    width: 100%;
+}
+
+.background-f4, .table-ticket thead, .booking-step-checkout ul li a {
+    background: #f4f4f4;
+}
+
+.bg-color-light, .event__item .item__head, .event__item .item__main, .event__calendars-places, .popup-load__close:after, .popup-load__close:before, .about-service__note, .about-service__desktop, .detail-content__all, .booking-head__wrap, .booking-step-checkout .booking-step__name, .booking-main__wrap {
+    background: #fff;
+}
+
+.fade.in {
+    opacity: 1;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.background-f4, .table-ticket thead, .booking-step-checkout ul li a {
+    background: #f4f4f4;
+}
+
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+}
+
+input:hover, input:focus, input:active, input:visited, textarea:hover, textarea:focus, textarea:active, textarea:visited, button:hover, button:focus, button:active, button:visited, select:hover, select:focus, select:active, select:visited, .btn:hover, .btn:focus, .btn:active, .btn:visited {
+    outline: none;
+}
+
+.btn.active, .btn:active {
+    background-image: none;
+    outline: 0;
+    -webkit-box-shadow: inset 0 3px 5px rgb(0 0 0 / 13%);
+    box-shadow: inset 0 3px 5px rgb(0 0 0 / 13%);
+}
+
+.primary_bg_color, .btn-main, .label-main, .back-to-top, .slider-main .slider__prev:hover, .slider-main .slider__next:hover, .event-slide .event-feature__prev:hover, .event-slide .event-feature__next:hover, .event-slide .event-comming-soon__prev:hover, .event-slide .event-comming-soon__next:hover, .header-mobile__right_btn:hover, .header-mobile__left_btn:hover, .heading-box--2:before, .heading-box--2 h2:before, .popup-load__close:hover:after, .popup-load__close:hover:before, .faq-tab ul li.active a, .faq-tab ul li:hover a {
+    background-color: #f1592a;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.btn {
+    transition: all 0.5s;
+    position: relative;
+    overflow: hidden;
+}
+
+.rows {
+    margin-top: 20px;
+}
+
+.btn-medium {
+    height: 58px;
+    padding: 6px 60px;
+}
+
+.btn-main {
+    padding: 0 15px;
+    border-top: 1px solid #f9b7a2;
+    border-left: 1px solid #f68b6a;
+    border-bottom: 1px solid #a64020;
+    border-right: 1px solid #c74f29;
+}
+
+button#popup-book-ticket {
+    margin-top: 27px;
+    color: white;
+    font-size: 23px;
+}
+
+a {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+input#ticket-quantity-not-free-2599 {
+    width: 2rem;
+}
+
+
+input.giave {
+    border: none;
+    font-weight: bold;
+}

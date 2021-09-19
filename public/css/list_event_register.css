@@ -1,0 +1,62 @@
+.flex-col-right {
+    flex: 82%;
+}
+
+.wrap-schedule-list {
+    padding: 0 15px;
+}
+
+.schedule-list {
+    padding-bottom: 20px;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+.wrap-order-list {
+    padding: 10px;
+}
+
+.order-list-heading {
+    margin-bottom: 10px;
+    margin-top: 5px;
+    font-size: 28px;
+}
+.center-align {
+    text-align: center;
+}
+
+.order-list-search {
+    width: 75%;
+    margin: auto;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.btn-add-manual {
+    margin-right: 2px;
+}
+
+p {
+    margin: 0 0 10px;
+}
+
+.table-responsive {
+    min-height: .01%;
+    overflow-x: auto;
+}
+
+.table-bordered {
+    border: 1px solid #ddd;
+}
+
+.align-right {
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+p.wrap-btn-search-order {
+    text-align: center;
+}

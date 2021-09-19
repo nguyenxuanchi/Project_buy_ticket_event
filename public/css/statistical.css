@@ -1,0 +1,45 @@
+.staistical-schedule {
+    width: 30%;
+    margin: auto;
+}
+
+.select2-container--krajee {
+    display: block;
+}
+
+.center-align {
+    text-align: center;
+}
+
+.statictic-one {
+    background-color: #00c0ef !important;
+}
+
+.statistic-event-icon {
+    border-top-left-radius: 2px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 2px;
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    background: rgba(0,0,0,0.2);
+    color: #fff;
+    padding: 10px 0px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.statistic-text {
+    font-size: 15px;
+}
+
+.highcharts-title {
+    text-align: center;
+}
+
+.statictic-two {
+    background-color: #dd4b39 !important;
+}

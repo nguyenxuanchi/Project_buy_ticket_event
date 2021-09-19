@@ -1,0 +1,105 @@
+#main {
+    margin: 0;
+    min-height: 750px;
+}
+
+.menu-left {
+    display: none;
+}
+
+.flex-col-left {
+    flex: 18%;
+    position: relative;
+}
+
+.wrap-schedule-list {
+    padding: 0 15px;
+}
+
+.flex-col-right {
+    flex: 82%;
+}
+
+.schedule-list {
+    padding-bottom: 20px;
+}
+
+.wrap-checkin {
+    min-height: 400px;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+.order-list-heading {
+    margin-bottom: 10px;
+    margin-top: 5px;
+    font-size: 28px;
+}
+
+.checkin-search-ticket {
+    margin-top: 20px;
+    width: 700px;
+    max-width: 80%;
+    margin: auto;
+}
+
+p {
+    margin: 0 0 10px;
+}
+
+#ajax-show-event-schedule .fa {
+    color: green;
+    margin-right: 2px;
+}
+
+.required {
+    color: red;
+}
+
+.search-ticket-box {
+    padding-left: 0;
+}
+
+.search-ticket-box .form-group {
+    margin-bottom: 0;
+}
+
+.search-ticket-text {
+    padding-left: 0;
+}
+
+.btn-search-ticket {
+    width: 100%;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.table-responsive {
+    min-height: .01%;
+    overflow-x: auto;
+}
+
+.table-bordered {
+    border: 1px solid #ddd;
+}
+
+.table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
+.table-bordered {
+    border: 1px solid #ddd;
+}
+
+.col-md-2.col-sm-2.col-xs-4.right-align.mt-20 {
+    padding-bottom: 11px;
+}
+
+
+
